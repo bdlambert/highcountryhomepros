@@ -117,6 +117,34 @@ h1,h2,h3{font-family:'Fraunces',Georgia,serif;line-height:1.15}
 .footer-links a{color:rgba(255,255,255,.65)}
 .footer-links a:hover{color:#fff}
 
+/* Service pages */
+.page-hero{background:var(--pine-deep);color:#fff;padding:64px 24px 56px}
+.page-hero-inner{max-width:840px;margin:0 auto}
+.crumbs{font-size:13px;color:rgba(255,255,255,.6);margin-bottom:18px}
+.crumbs a{color:rgba(255,255,255,.75)}
+.page-hero h1{font-family:'Fraunces',Georgia,serif;font-size:clamp(30px,4.5vw,46px);line-height:1.12;margin-bottom:14px}
+.page-hero .lede{font-size:17.5px;line-height:1.65;color:rgba(255,255,255,.85);max-width:700px}
+.article{max-width:840px;margin:0 auto;padding:56px 24px}
+.article h2{font-family:'Fraunces',Georgia,serif;font-size:26px;color:var(--ink);margin:36px 0 12px}
+.article h2:first-child{margin-top:0}
+.article p{font-size:16px;line-height:1.75;color:var(--body);margin-bottom:14px}
+.article ul{margin:0 0 14px 22px}
+.article li{font-size:16px;line-height:1.7;color:var(--body);margin-bottom:6px}
+.article img{border-radius:var(--radius);border:1px solid var(--border);margin:10px 0 18px}
+.img-pair{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.faq{max-width:840px;margin:0 auto;padding:0 24px 64px}
+.faq h2{font-family:'Fraunces',Georgia,serif;font-size:28px;color:var(--ink);margin-bottom:20px}
+.faq details{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);margin-bottom:12px;padding:0 20px}
+.faq summary{font-weight:600;font-size:16px;color:var(--pine);padding:16px 0;cursor:pointer}
+.faq details p{font-size:15px;line-height:1.7;color:var(--body);padding:0 0 16px}
+.cta-band{background:var(--pine);color:#fff;text-align:center;padding:52px 24px}
+.cta-band h2{font-family:'Fraunces',Georgia,serif;font-size:clamp(24px,3.5vw,34px);margin-bottom:10px}
+.cta-band p{color:rgba(255,255,255,.8);margin-bottom:22px;font-size:16px}
+.svc-link{display:inline-block;margin-top:12px;font-weight:600;font-size:14px;color:var(--moss)}
+.home-faq{background:var(--card);border-top:1px solid var(--border);max-width:100%;padding:72px 24px}
+.home-faq-inner{max-width:840px;margin:0 auto}
+@media(max-width:700px){.img-pair{grid-template-columns:1fr}}
+
 /* Responsive */
 @media(max-width:900px){
   .services-grid{grid-template-columns:repeat(2,1fr)}
