@@ -13,7 +13,7 @@ Three promises define the business: we return calls, we show up on time, and we 
 - Log cabin repair & maintenance (15+ years on log homes): https://highcountryhomepros.com/log-cabin-repair.html
 - Hot tub installation, repair & water care: https://highcountryhomepros.com/hot-tub-services.html
 - Tile & stone work (showers, backsplashes, floors, stone features): https://highcountryhomepros.com/tile-stone.html
-- Louvered privacy enclosures for decks and hot tubs: https://highcountryhomepros.com/louvered-privacy-enclosures.html
+- Adjustable louvered privacy enclosures for decks and hot tubs (slats open and close like window blinds): https://highcountryhomepros.com/louvered-privacy-enclosures.html
 - Geodesic dome & specialty structure construction: https://highcountryhomepros.com/domes.html
 - STR (short-term rental) design & revenue optimization: https://highcountryhomepros.com/str-design.html
 - Vacation-rental property care (guest-ready repairs, turnarounds, photo-documented inspections): https://highcountryhomepros.com/vacation-rental-care.html
@@ -40,7 +40,7 @@ Three promises define the business: we return calls, we show up on time, and we 
 - Hot tub services: https://highcountryhomepros.com/hot-tub-services.html
 - Vacation-rental property care: https://highcountryhomepros.com/vacation-rental-care.html
 - Tile & stone: https://highcountryhomepros.com/tile-stone.html
-- Louvered privacy enclosures: https://highcountryhomepros.com/louvered-privacy-enclosures.html
+- Adjustable louvered privacy enclosures: https://highcountryhomepros.com/louvered-privacy-enclosures.html
 - Domes & specialty structures: https://highcountryhomepros.com/domes.html
 - STR design & revenue optimization: https://highcountryhomepros.com/str-design.html
 - Water damage & drainage: https://highcountryhomepros.com/water-damage.html
