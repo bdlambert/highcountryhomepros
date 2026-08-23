@@ -36,7 +36,7 @@ h1,h2,h3{font-family:'Fraunces',Georgia,serif;line-height:1.15}
 
 /* Hero */
 .hero{position:relative;min-height:82vh;display:flex;align-items:center;justify-content:flex-start;overflow:hidden}
-.hero-media{position:absolute;inset:0;background:url('img/hero-castle.webp') center 55%/cover no-repeat}
+.hero-media{position:absolute;inset:0;background:url('img/hero-castle.webp') 64% 48%/cover no-repeat}
 .hero-overlay{position:absolute;inset:0;background:linear-gradient(100deg,rgba(15,28,22,.88) 0%,rgba(15,28,22,.62) 45%,rgba(15,28,22,.18) 100%)}
 .hero-content{position:relative;max-width:1120px;width:100%;margin:0 auto;padding:96px 24px;color:#fff}
 .hero-kicker{font-size:13px;letter-spacing:.18em;text-transform:uppercase;font-weight:600;color:#E9C68F;margin-bottom:18px}

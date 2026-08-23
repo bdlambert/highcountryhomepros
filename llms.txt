@@ -6,17 +6,17 @@ Three promises define the business: we return calls, we show up on time, and we 
 
 ## Services
 
-- Roofing (shingle replacement, metal upgrades, repairs, drone roof inspections): https://highcountryhomepros.com/#services
-- Carpentry & framing (rough-in framing to finish trim)
-- Drywall hanging, finishing & painting (20+ years experience)
-- Decks & patios (footer to completion)
-- Log cabin repair & maintenance (15+ years on log homes)
-- Hot tub installation, repair & water care
-- Tile & stone work (showers, backsplashes, floors, stone features)
-- Louvered privacy enclosures for decks and hot tubs
+- Roofing (shingle replacement, metal upgrades, repairs, drone roof inspections): https://highcountryhomepros.com/roofing.html
+- Carpentry & framing (rough-in framing to finish trim): https://highcountryhomepros.com/carpentry-framing.html
+- Drywall hanging, finishing & painting (20+ years experience): https://highcountryhomepros.com/drywall-painting.html
+- Decks & patios (footer to completion): https://highcountryhomepros.com/decks-patios.html
+- Log cabin repair & maintenance (15+ years on log homes): https://highcountryhomepros.com/log-cabin-repair.html
+- Hot tub installation, repair & water care: https://highcountryhomepros.com/hot-tub-services.html
+- Tile & stone work (showers, backsplashes, floors, stone features): https://highcountryhomepros.com/tile-stone.html
+- Louvered privacy enclosures for decks and hot tubs: https://highcountryhomepros.com/louvered-privacy-enclosures.html
 - Geodesic dome & specialty structure construction: https://highcountryhomepros.com/domes.html
 - STR (short-term rental) design & revenue optimization: https://highcountryhomepros.com/str-design.html
-- Vacation-rental property care (guest-ready repairs, turnarounds, photo-documented inspections)
+- Vacation-rental property care (guest-ready repairs, turnarounds, photo-documented inspections): https://highcountryhomepros.com/vacation-rental-care.html
 - Water damage remediation, runoff/drainage control, culvert install/relocation: https://highcountryhomepros.com/water-damage.html
 - Crawlspace encapsulation, venting & moisture remediation: https://highcountryhomepros.com/crawlspace-encapsulation.html
 - Large glass & window installation
@@ -31,6 +31,15 @@ Three promises define the business: we return calls, we show up on time, and we 
 ## Pages
 
 - Home: https://highcountryhomepros.com/
+- Roofing: https://highcountryhomepros.com/roofing.html
+- Carpentry & framing: https://highcountryhomepros.com/carpentry-framing.html
+- Drywall & painting: https://highcountryhomepros.com/drywall-painting.html
+- Decks & patios: https://highcountryhomepros.com/decks-patios.html
+- Log cabin repair: https://highcountryhomepros.com/log-cabin-repair.html
+- Hot tub services: https://highcountryhomepros.com/hot-tub-services.html
+- Vacation-rental property care: https://highcountryhomepros.com/vacation-rental-care.html
+- Tile & stone: https://highcountryhomepros.com/tile-stone.html
+- Louvered privacy enclosures: https://highcountryhomepros.com/louvered-privacy-enclosures.html
 - Domes & specialty structures: https://highcountryhomepros.com/domes.html
 - STR design & revenue optimization: https://highcountryhomepros.com/str-design.html
 - Water damage & drainage: https://highcountryhomepros.com/water-damage.html
