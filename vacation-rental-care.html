@@ -76,6 +76,21 @@
 }
 </script>
 <link rel="stylesheet" href="assets/styles.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZLLNF2HS80"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-ZLLNF2HS80');
+document.addEventListener('click', function(e){
+  var a = e.target && e.target.closest ? e.target.closest('a') : null;
+  if(!a) return;
+  var h = a.getAttribute('href') || '';
+  if(h.indexOf('tel:') === 0){ gtag('event','phone_call_click',{link_url:h,page_path:location.pathname}); }
+  else if(h.indexOf('mailto:') === 0){ gtag('event','email_click',{link_url:h,page_path:location.pathname}); }
+});
+</script>
 </head>
 <body>
 

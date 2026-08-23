@@ -15,6 +15,21 @@
 .legal p, .legal li{font-size:15px;color:var(--body)}
 .legal ul{padding-left:22px;margin:10px 0}
 </style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZLLNF2HS80"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-ZLLNF2HS80');
+document.addEventListener('click', function(e){
+  var a = e.target && e.target.closest ? e.target.closest('a') : null;
+  if(!a) return;
+  var h = a.getAttribute('href') || '';
+  if(h.indexOf('tel:') === 0){ gtag('event','phone_call_click',{link_url:h,page_path:location.pathname}); }
+  else if(h.indexOf('mailto:') === 0){ gtag('event','email_click',{link_url:h,page_path:location.pathname}); }
+});
+</script>
 </head>
 <body>
 <header class="header">
@@ -32,7 +47,7 @@
 
 <main class="legal">
   <h1>Privacy Policy</h1>
-  <p class="updated">Last updated: August 22, 2026</p>
+  <p class="updated">Last updated: August 23, 2026</p>
 
   <p>High Country Home Pros ("we," "us," or "our") respects your privacy. This policy describes what information we collect when you visit highcountryhomepros.com or contact us, and how we use it.</p>
 
@@ -54,6 +69,9 @@
     <li>We do not sell your personal information.</li>
     <li>We do not share your information with third parties for their marketing purposes.</li>
   </ul>
+
+  <h2>Website analytics</h2>
+  <p>We use Google Analytics to understand how visitors use our website — for example, which pages are viewed and whether visitors tap our phone number or email address. Google Analytics uses cookies and collects information such as your approximate location, device type, and pages visited. We do not use this data to identify you personally. You can opt out with the <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener" target="_blank">Google Analytics opt-out browser add-on</a>, or by blocking cookies in your browser. Learn more in Google's <a href="https://policies.google.com/privacy" rel="noopener" target="_blank">Privacy Policy</a>.</p>
 
   <h2>Text messaging</h2>
   <p>If you text us or provide your number, we may reply by SMS about your inquiry or project. Message and data rates may apply. Reply STOP at any time to opt out of text communication.</p>
