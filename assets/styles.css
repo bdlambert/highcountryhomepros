@@ -157,3 +157,8 @@ h1,h2,h3{font-family:'Fraunces',Georgia,serif;line-height:1.15}
   .nav a:not(.nav-cta){display:none}
   .hero{min-height:70vh}
 }
+.hero-tagline{font-family:'Fraunces',Georgia,serif;font-style:italic;font-weight:500;font-size:1.15rem;color:var(--cream);margin-top:.5rem;line-height:1.5}
+.why-different{background:var(--cream);padding:3.5rem 1.5rem}
+.why-different .why-inner{display:block;max-width:720px;margin:0 auto;text-align:center}
+.why-different h2{font-family:'Fraunces',Georgia,serif;font-weight:700;font-size:1.9rem;color:var(--pine-deep);margin-bottom:1rem}
+.why-different p{font-size:1.02rem;line-height:1.65;color:#43413B;margin-bottom:1rem}
